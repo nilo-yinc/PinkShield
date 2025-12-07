@@ -25,7 +25,10 @@
 
 <br/>
 
-<a href="https://pink-shield-women-cancer-treatment.vercel.app/"><b>▶ Live Demo</b></a> · <a href="#-quickstart">Quickstart</a> · <a href="#-features">Features</a>
+<a href="https://pink-shield-women-cancer-treatment.vercel.app/"><b>▶ Live Demo
+use this email and password for demo 
+email- sportifyenglish@gmail.com
+password - Abhi@2004</b></a> · <a href="#-quickstart">Quickstart</a> · <a href="#-features">Features</a>
 
 </div>
 
